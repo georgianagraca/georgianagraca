@@ -1,4 +1,4 @@
-👋 Hey you :)
+👋 Hey there :)
 - 
 I'm Georgiana Maria, a Developer from Brazil
 
