@@ -2,7 +2,7 @@
 - 
 I'm Georgiana Maria, a Developer from Brazil
 
-- 🌱 I’m currently working on Back-end projects
+- 🌱 I’m currently working on Back-end and RPA projects
 - 💞️ Languages - Java, C, Python
 - 📫 You can reach me through my LinkedIn profile www.linkedin.com/in/georgiana-maria
 
