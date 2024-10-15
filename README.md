@@ -1,9 +1,9 @@
 👋 Hey there :)
 - 
-I'm Georgiana Maria, a Developer from Brazil
+I'm Georgiana Graça, a Developer from Brazil
 
-- 🌱 I’m currently working on Back-end and RPA projects
-- 💞️ Languages - Java, C, Python
+- 🌱 I’m currently working on Back-end and Data projects
+- 💞️ Languages - Java, C, Python, SQL
 - 📫 You can reach me through my LinkedIn profile www.linkedin.com/in/georgiana-maria
 
 
